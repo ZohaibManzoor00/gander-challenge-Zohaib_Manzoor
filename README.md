@@ -6,10 +6,10 @@ A lightweight flight scheduling and crew assignment tool with AI-powered insight
 - **Pilots & Crew** – View assigned flights, duty hours, and trip notes
 - **AI Assistant** – Chat with recent flight data using natural language
 
-## Clarifications: 
-- This app is designed for **internal operations** of a private charter company (not for public ticketing or commercial sales).
+## Live Demo
+https://gander-challenge-zohaib-manzoor.vercel.app
 
-## Architecture & Technical Decisions
+## Architecture
 
 - **Client** - Next.js(App Router)
 - **Backend/API** Server - Next.js + REST
@@ -45,14 +45,6 @@ A lightweight flight scheduling and crew assignment tool with AI-powered insight
 - Supabase credentials: 
     - Project Name: `flight-tracker-Gander` 
     - Database Password: `flight-tracker-Gander`
-
-## Infra:
-- Client - Next.js
-- Backend Server - Next.js App Router
-- Auth - JWT
-- Database - Supabase + Drizzle ORM
-- AI - Vercel/OpenAI
-- Deployment: Vercel
 
 ## Auth: 
 A mock login system is provided with pre-set credentials for admin and crew roles. 
