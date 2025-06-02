@@ -6,8 +6,14 @@ A lightweight flight scheduling and crew assignment tool with AI-powered insight
 - **Pilots & Crew** – View assigned flights, duty hours, and trip notes
 - **AI Assistant** – Chat with recent flight data using natural language
 
-## Live Demo
-https://gander-challenge-zohaib-manzoor.vercel.app
+### Demo Video  
+Watch my walkthrough here:  
+[Live Demo Video on Loom](https://www.loom.com/share/97b921eef9ed4f7ca6606162cc9c07f3?sid=6daa8348-5182-4bdd-85d3-32d79356b793)
+
+### Live App  
+Try the app live at:  
+[gander-challenge-zohaib-manzoor.vercel.app](https://gander-challenge-zohaib-manzoor.vercel.app)
+
 
 ## Architecture
 
